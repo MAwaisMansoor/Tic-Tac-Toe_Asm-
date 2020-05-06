@@ -1,3 +1,4 @@
 # Tic-Tac-Toe
-CONSOLE tic tac toe game in assembly language 
+
+Console based Tic Tac Toe game in Assembly Language 
 MASM 
